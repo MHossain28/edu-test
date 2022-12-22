@@ -1,0 +1,12 @@
+.about{
+    background-color: rgb(229, 229, 229);
+    /* margin: auto; */
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 30px;
+    margin-top: 40px;
+    margin-bottom: 80px;
+    font-weight: 30px;
+    font-style: initial;
+}

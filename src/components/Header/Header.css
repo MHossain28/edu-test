@@ -1,0 +1,48 @@
+/* .header-site{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(203, 203, 203);
+    padding: 10px;
+}
+.header-site a {
+    text-decoration: none;
+    padding: 10px;
+    background-color: rgb(0, 0, 0);
+    margin: 8px 4px;
+    color: white;
+    border-radius: 10px;
+}
+.header-site a:hover {
+    background-color: rgb(83, 83, 83);
+} */
+
+.navbaredit{
+    height: 100px;
+    background-color: rgb(69, 101, 95);
+}
+.web-name{
+    font-weight: 900;
+    font-size: xx-large;
+    color: rgb(226, 226, 226);
+}
+.nav-btn{
+    color: azure;
+    background-color: rgb(191, 191, 191);
+    font-weight: bolder;
+    margin: 10px;
+    width: 100px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+}
+.nav-btn:hover{
+    background-color: rgb(147, 147, 147);
+}
+.total-nav{
+    background-color: rgb(48, 51, 52);
+    /* position: fixed; */
+    top: 0px;
+    overflow: hidden;
+    width: 100%;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,11 @@
+.courses{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    margin: 7%;
+}
+@media only screen and (max-width: 900px) {
+    .courses{
+        grid-template-columns: 1fr;
+    }
+}

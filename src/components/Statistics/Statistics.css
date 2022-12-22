@@ -1,0 +1,7 @@
+.chart-grap{
+    display: flex;
+    justify-content: center;
+    padding: 5%;
+    background-color: rgb(225, 225, 225);
+    color: black;
+}
